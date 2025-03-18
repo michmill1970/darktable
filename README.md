@@ -1,7 +1,7 @@
 [![icon](/data/pixmaps/idbutton.png?raw=true)](https://www.darktable.org/) darktable [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/darktable-org/darktable/ci.yml?branch=master)](https://github.com/darktable-org/darktable/actions/workflows/ci.yml?query=branch%3Amaster+is%3Acompleted+event%3Apush) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/470/badge)](https://bestpractices.coreinfrastructure.org/projects/470)
 =========
 
-## This version of Darktable contains my fixes for ths issue with loading images when launched from another program like digiKam.  These changes have been accepted for Darktable 5.2, but I couldn't wait that long.
+## This version of Darktable 5.0.1 contains my fixes for ths issue with loading images when launched from another program like digiKam.  These changes have been accepted for Darktable 5.2, but I couldn't wait that long.
 
 darktable is an open source photography workflow application and non-destructive raw developer - a virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images, enhance them and export them to local or remote storage.
 
